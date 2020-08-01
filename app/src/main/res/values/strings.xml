@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="text_question">تهران پایتخت ایران است؟</string>
+    <string name="toast_incorrect">پاسخ درست نیست</string>
+    <string name="toast_correct">پاسخ درست است</string>
+
+</resources>
